@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am Hüseyin Furkan.<br>🌱 I’m currently learning and interesting in Web Development<br>💬 Contact me for more information on my social media accounts or gmail<br>⚡ For more: yamanfurki08@gmail.com
+🔭 I am Hüseyin Furkan.<br>🌱 I’m currently learning and interesting in Web Development and Databases <br>💬 Contact me for more information on my social media accounts or gmail<br>⚡ For more: yamanfurki08@gmail.com
 
 
 ## 🌐 Socials:
